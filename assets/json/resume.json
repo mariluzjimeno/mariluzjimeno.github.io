@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "María de la Luz Jimeno Romero",
+    "position": "Head of sustainability",
+    "image": "",
+    "phone": "",
+    "expertise": "architecture, technical solutions, sustainability"
+  },
+  "work": [
+    {
+      "name": "Saint Gobain Solutions",
+      "position": "Head of sustainability",
+      "url": "https://www.saint-gobain.com",
+      "startDate": "2025-03-04",
+      "endDate": "",
+      "summary": "xxx."
+    },
+    {
+      "name": "Placo",
+      "position": "técnico de oficina técnica",
+      "url": "https://www.placo.com",
+      "startDate": "2021-02-01",
+      "endDate": "2025-03-03",
+      "summary": "Research and teaching."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "url": "https://www.upm.es/",
+      "area": "Máster en rehabilitación",
+      "studyType": "Máster",
+      "startDate": "2014-10-01",
+      "endDate": "2018-12-01",
+      "score": ""
+    },
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "url": "https://www.upm.es/",
+      "area": "Arquitectura",
+      "studyType": "Licenciatura",
+      "startDate": "2014-10-01",
+      "endDate": "2018-12-01",
+      "score": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "participation in organizations": [],
+  "selected projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C1 certified"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
